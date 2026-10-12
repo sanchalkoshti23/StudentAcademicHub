@@ -85,4 +85,4 @@ The objective of StudentAcademicHub is to apply core software development concep
 
 ---
 
-*Built as a hands-on project to strengthen Java programming and database management skills.*
+*Built as a hands-on project to strengthen Java programming and database management skills.

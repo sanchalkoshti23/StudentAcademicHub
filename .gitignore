@@ -1,0 +1,14 @@
+
+# Compiled Java files
+bin/
+*.class
+
+# Eclipse local settings
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
